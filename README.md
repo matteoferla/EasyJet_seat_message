@@ -1,4 +1,4 @@
-# EasyJet_seat_message
+# EasyJet seat message
 > HiDDeN CoNsPirAcY by the LiZaRd PeoPle?
 
 This is an attempt to try to see if there is a hidden message in the seat patten present 
